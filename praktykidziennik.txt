@@ -1,0 +1,8 @@
+2 maj szkolenie bhp
+4 szkolenie GSM konfiguracja stanowiska pracy
+7 szkolenia
+8
+9 nauka podstaw jêzyka programowania python 
+10 kontynuacja nauki w pythonie
+11 podstawy frameworka 'django'
+14 kontynuacja nauki django
